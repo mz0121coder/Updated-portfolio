@@ -6,6 +6,10 @@ It was great to watch several styling tutorials and build a frontend project (ha
 
 I have experimented with hover effects, font-awesome icons and contrasting colour schemes.
 
+# Live URL
+
+https://mz0121coder.github.io/Updated-portfolio/
+
 # Screenshots
 
 ![screenshot-1](./images/screenshot-1.png)  
